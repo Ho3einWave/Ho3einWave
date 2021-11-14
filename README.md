@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ho3ein <img src="https://cdn.discordapp.com/emojis/772075111384743946.gif?v=11" width="30"/></h1>
+<h1 align="center">Hi 👋, I'm Hosein <img src="https://cdn.discordapp.com/emojis/772075111384743946.gif?v=11" width="30"/></h1>
 - 🚀 I'm A Software Developer & Network Manager
 <br />
 - 🌱 I Have Been Working Professionally In The Field Of Programming For 2 Years
@@ -10,8 +10,13 @@
 - 🔥 Hunt Whats You Want :)
 <br />
 <br />
+<div align="center">
+  
 <img src="https://komarev.com/ghpvc/?username=Ho3einWave&label=Profile%20views&color=0e75b6&style=flat" alt="Ho3einWave" /> 
 <img src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue" alt="Ho3einWave" />
+  
+</div>
+
 
 <h3 align="center">My Skills 👓</h3>
 <div align="center">
