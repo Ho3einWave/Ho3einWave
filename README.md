@@ -37,10 +37,11 @@
 ---
 <div align="center">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Ho3einWave&show_icons=true&theme=dark)
-<br />
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einWave&layout=compact&theme=dark)
 
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einwave&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
+<br />
+![github stats](https://github-readme-stats.vercel.app/api?username=ho3einwave&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
 </div>
 ---
 
