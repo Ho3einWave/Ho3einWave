@@ -36,8 +36,10 @@
 
 ---
 <div align="center">
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=Ho3einWave&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einWave&layout=compact&theme=dark)
+
 </div>
 ---
 
