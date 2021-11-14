@@ -38,6 +38,7 @@
 <div align="center">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Ho3einWave&show_icons=true&theme=dark)
+<br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einWave&layout=compact&theme=dark)
 
 </div>
@@ -45,9 +46,15 @@
 
 <h3 align="center">Connect with me 📩</h3>
 <div align="center">
-[<img align="center" alt="Ho3einWave | Instagram"  src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF" />][instagram]
-[<img align="center" alt="Ho3einWave | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />][discord]
-[<img align="center" alt="Ho3einWave | Github" src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />][github]
+<a href="https://github.com/Ho3einWave">
+<img align="center" alt="Ho3einWave | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="https://www.instagram.com/Ho3einwave_/">
+<img align="center" alt="Ho3einWave | Instagram"  src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF" />
+</a>
+<a href="https://discord.gg/b5fVq7fs2s">
+<img align="center" alt="Ho3einWave | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
+</a>
 </div>
 
 
