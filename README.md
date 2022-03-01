@@ -14,7 +14,7 @@
   
 <img src="https://komarev.com/ghpvc/?username=Ho3einWave&label=Profile%20views&color=0e75b6&style=flat" alt="Ho3einWave" /> 
 <img src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue" alt="Ho3einWave" />
-  
+a href="https://app.daily.dev/ho3einwave"><img src="https://api.daily.dev/devcards/9bb28ed75bb5427b84cbe250acf9ef9e.png?r=mx4" width="400" alt="Ho3ein's Dev Card"/></a>
 </div>
 
 
