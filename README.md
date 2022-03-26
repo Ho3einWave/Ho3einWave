@@ -39,7 +39,7 @@
 
 <br />
 
-<h3 align="center">Github Stats </h3>
+<h3 align="center">Github Stats 🧭</h3>
 <div align="center">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einwave&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
@@ -60,7 +60,7 @@
 <a href="https://www.instagram.com/Ho3einwave_/">
 <img align="center" alt="Ho3einWave | Instagram"  src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF" />
 </a>
-<a href="https://discord.gg/b5fVq7fs2s">
+<a href="https://obsv.ga/main">
 <img align="center" alt="Ho3einWave | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
 </a>
 </div>
@@ -68,4 +68,4 @@
 
 [github]: https://github.com/Ho3einWave
 [Instagram]: https://www.instagram.com/Ho3ein_Wave/
-[discord]: https://discord.gg/KZD3BxrGSk
+[discord]: https://obsv.ga/main
