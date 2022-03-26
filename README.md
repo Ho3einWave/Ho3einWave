@@ -12,8 +12,8 @@
 <br />
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=Ho3einWave&label=Profile%20views&color=0e75b6&style=flat" alt="Ho3einWave" /> 
-<img src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue" alt="Ho3einWave" />
+<img src="https://komarev.com/ghpvc/?username=Ho3einWave&label=Profile%20views&color=3E98B4&style=for-the-badge&" alt="Ho3einWave" /> 
+<img src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue?style=for-the-badge&color=3E98B4" alt="Ho3einWave" />
 
 </div>
 
