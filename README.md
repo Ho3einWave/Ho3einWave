@@ -12,8 +12,8 @@
 <br />
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=Ho3einWave&label=Profile%20views&color=3E98B4&style=for-the-badge&" alt="Ho3einWave" /> 
-<img src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue?style=for-the-badge&color=3E98B4" alt="Ho3einWave" />
+<img src="https://komarev.com/ghpvc/?username=Ho3einWave&label=Profile%20views&color=3382ed&style=for-the-badge&" alt="Ho3einWave" /> 
+<img src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue?style=for-the-badge&color=3382ed" alt="Ho3einWave" />
 
 </div>
 
@@ -41,10 +41,13 @@
 
 <h3 align="center">Github Stats 🧭</h3>
 <div align="center">
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einwave&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed)
-  <br />
-  ![github stats](https://github-readme-stats.vercel.app/api?username=ho3einwave&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed)
-<a href="http://www.github.com/ho3einwave"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ho3einwave&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/ho3einwave"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einwave&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed" /></a>
+  
+<br />
+  <a href="http://www.github.com/ho3einwave"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ho3einwave&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/ho3einwave"><img src="https://github-readme-stats.vercel.app/api?username=ho3einwave&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed" /></a>
+
+
 
 <a href="http://www.github.com/ho3einwave"><img src="https://activity-graph.herokuapp.com/graph?username=ho3einwave&bg_color=0D1117&color=ffffff&line=3382ed&point=ffffff&area_color=0D1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
