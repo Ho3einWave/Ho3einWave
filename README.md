@@ -20,18 +20,19 @@
 
 <h3 align="center">My Skills 👓</h3>
 <div align="center">
-<img alt="Linux" title="Linux"  src="http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000" />
+<img  alt="Vue.js" title="Vue.js"  src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=000000" />
+<img  alt="Javascript" title="Javascript"  src="http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000000" />
+<img  alt="HTML5" title="HTML5"  src="http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF" />
+<img  alt="CSS3" title="CSS3"  src="http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF" />
+<img  alt="Node.js" title="Node.js"  src="http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF" />
+<img  alt="PHP" title="PHP"  src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=000000" />
+<img  alt="Python" title="Python"  src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
+<img  alt="Linux" title="Linux"  src="http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000" />
 <img  alt="GNU Bash" title="Raspberry Pi"  src="http://img.shields.io/badge/-Raspberry Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=FFFFFF" />
 <img  alt="Raspberry Pi" title="GNU Bash"  src="http://img.shields.io/badge/-GNU Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=FFFFFF" />
 <img  alt="Cisco" title="Cisco"  src="http://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=FFFFFF" />
 <img  alt="Postman" title="Postman"  src="http://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=FFFFFF" />
-<img  alt="Node.js" title="Node.js"  src="http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF" />
 
-<img  alt="Python" title="Python"  src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
-<img  alt="Javascript" title="Javascript"  src="http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000000" />
-<img  alt="Lua" title="Lua"  src="http://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=FFFFFF" />
-<img  alt="HTML5" title="HTML5"  src="http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF" />
-<img alt="CSS3" title="CSS3"  src="http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF" />
 </div>
 
 
