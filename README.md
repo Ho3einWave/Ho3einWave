@@ -73,4 +73,4 @@
 
 [github]: https://github.com/Ho3einWave
 [Instagram]: https://www.instagram.com/Ho3ein_Wave/
-[discord]: https://obsv.ga/main
+[discord]: https://obsv.ga/discord
