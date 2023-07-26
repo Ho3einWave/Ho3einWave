@@ -28,8 +28,6 @@
 </div>
 
 
-
-
 <br />
 
 <h3 align="center">Github Stats 🧭</h3>
@@ -42,18 +40,11 @@
 
 
 
-<a href="http://www.github.com/ho3einwave"><img src="https://activity-graph.herokuapp.com/graph?username=ho3einwave&bg_color=0D1117&color=ffffff&line=3382ed&point=ffffff&area_color=0D1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-  
-
-
-
 <br />
   <div>
-  <a href="https://app.daily.dev/ho3einwave"><img src="https://api.daily.dev/devcards/9bb28ed75bb5427b84cbe250acf9ef9e.png?r=mx4" width="400" alt="Ho3ein's Dev Card"/></a>
+    <a href="https://app.daily.dev/ho3einwave"><img src="https://api.daily.dev/devcards/9bb28ed75bb5427b84cbe250acf9ef9e.png?r=mx4" width="400" alt="Ho3ein's Dev Card"/></a>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=pwbaj8gy6mwj5fqn89re0ylh7&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" width="400" alt="Ho3ein's Spotify"/>
   </div>
-
 </div>
 
 
