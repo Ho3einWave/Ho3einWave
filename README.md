@@ -1,14 +1,11 @@
 
 
-<h1 align="center">Hi 👋, I'm Hosein <img src="https://cdn.discordapp.com/emojis/772075111384743946.gif?v=11" width="30"/></h1>
-- 🚀 I'm A Front-End Developer & Network Manager
+<h1 align="center">Hi, I'm Hosein <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="40"/></h1>
+- 🚀 I'm A Front-End Developer & Network engineering student <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/graduation-cap_1f393.gif" width="20"/>
 <br />
-- 🌱 I Have Been Working Professionally In The Field Of Programming For 2 Years
+- 🌱 I Have Been Working Professionally In The Field Of Programming For 2.5 Years
 <br />
-- ⚡ Flex 4 Ever
-<br />
-- 🔥 Hunt Whats You Want :)
-<br />
+
 <br />
 <div align="center">
   
@@ -18,7 +15,7 @@
 </div>
 
 
-<h3 align="center">My Skills 👓</h3>
+<h3 align="center">My Skills <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/nerd-face_1f913.gif" width="20"/></h3>
 <div align="center">
 <p align="center">
     <a href="https://skillicons.dev">
@@ -30,7 +27,7 @@
 
 <br />
 
-<h3 align="center">Github Stats 🧭</h3>
+<h3 align="center">Github Stats <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/disguised-face_1f978.gif" width="20"/></h3>
 <div align="center">
   <a href="http://www.github.com/ho3einwave"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einwave&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed" /></a>
    <a href="https://wakatime.com/@Ho3einWave" target="_blank">
@@ -44,7 +41,7 @@
 
 
 
-<h3 align="center">Connect with me 📩</h3>
+<h3 align="center">Connect with me <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/eyes_1f440.gif" width="20"/></h3>
 <div align="center">
 <a href="https://github.com/Ho3einWave">
 <img align="center" alt="Ho3einWave | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
