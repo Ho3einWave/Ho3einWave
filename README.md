@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Hosein <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="40"/></h1>
-- 🚀 I'm A Front-End Developer & Network engineering student <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/graduation-cap_1f393.gif" style="display:inline" width="20"/>
+- 🚀 I'm A Front-End Developer & Network engineering student 
 <br />
 - 🌱 I Have Been Working Professionally In The Field Of Programming For 2.5 Years
 <br />
