@@ -22,7 +22,7 @@
 <div align="center">
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=react,js,jquery,html,markdown,pug,css,sass,bootstrap,nodejs,express,mongodb,php,python,linux,raspberrypi,bash,discord,git,github,heroku,cloudflare,vscode,photoshop,figma,aftereffects' />
+      <img src='https://skillicons.dev/icons?i=react,next,electron,ts,js,tailwind,vite,jquery,html,css,sass,bootstrap,nodejs,express,mongodb,git,github,markdown,pug,python,bash,linux,docker,raspberrypi,vscode,postman,figma,cloudflare,discord,linkedin' />
     </a>
   </p>
 </div>
@@ -41,12 +41,7 @@
 
 
 
-<br />
-  <div>
-    <a href="https://app.daily.dev/ho3einwave"><img src="https://api.daily.dev/devcards/9bb28ed75bb5427b84cbe250acf9ef9e.png?r=mx4" width="400" alt="Ho3ein's Dev Card"/></a>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=pwbaj8gy6mwj5fqn89re0ylh7&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" width="400" alt="Ho3ein's Spotify"/>
-  </div>
-</div>
+
 
 
 <h3 align="center">Connect with me 📩</h3>
