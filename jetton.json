@@ -1,7 +1,7 @@
 {
-   "name": "Sample Jetton",
-   "description": "Sample of Jetton",
-   "symbol": "JTN",
+   "name": "Hosein Dex",
+   "description": "The official jetton of hosein dex on ton",
+   "symbol": "HSN",
    "decimals": 0,
-   "image": "https://www.svgrepo.com/download/483336/coin-vector.svg"
+   "image": "https://raw.githubusercontent.com/Ho3einWave/Ho3einWave/8b69ffb6a7140dbd3bfda58f82084b34c4233f54/download.jpeg"
 }
