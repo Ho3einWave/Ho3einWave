@@ -1,7 +1,7 @@
 {
-   "name": "Hosein Dex Coin",
-   "description": "The official jetton of hosein dex on ton blockchain",
-   "symbol": "HSN",
-   "decimals": 0,
-   "image": "https://raw.githubusercontent.com/Ho3einWave/Ho3einWave/8b69ffb6a7140dbd3bfda58f82084b34c4233f54/download.jpeg"
+   "name": "O1",
+   "description": "O1 Jetton created for educational purpose",
+   "symbol": "O1",
+   "decimals": 9,
+   "image": "https://i.ibb.co/cDS4kSM/Leonardo-Phoenix-A-stylized-crystal-logo-radiant-with-a-soft-c-3.jpg"
 }
