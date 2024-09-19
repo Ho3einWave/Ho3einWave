@@ -1,7 +1,7 @@
 {
-   "name": "O1",
-   "description": "O1 Jetton created for educational purpose",
-   "symbol": "O1",
+   "name": "O1 Mintless",
+   "description": "O1 Jetton created for educational purpose (Mintless Jetton)",
+   "symbol": "O1NM",
    "decimals": 9,
    "image": "https://i.ibb.co/cDS4kSM/Leonardo-Phoenix-A-stylized-crystal-logo-radiant-with-a-soft-c-3.jpg"
 }
