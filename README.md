@@ -5,7 +5,10 @@
 <br />
 - 🌱 I Have Been Working Professionally In The Field Of Programming For 2.5 Years
 <br />
-
+- 💻️ Im currently working as Front-End Developer @ <a href="https://github.com/MyTonSwap">
+MyTonSwap
+</a>
+<br />
 <br />
 <div align="center">
   
@@ -19,7 +22,7 @@
 <div align="center">
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=react,next,electron,ts,js,tailwind,vite,jquery,html,css,sass,bootstrap,nodejs,express,mongodb,git,github,markdown,pug,python,bash,linux,docker,raspberrypi,vscode,postman,figma,cloudflare,discord,linkedin' />
+      <img src='https://skillicons.dev/icons?i=arch,react,next,electron,ts,js,tailwind,vite,sass,bootstrap,nodejs,bun,express,mongodb,git,github,markdown,python,bash,docker,raspberrypi,figma,obsidian,cloudflare,sentry&theme=dark' />
     </a>
   </p>
 </div>
@@ -45,12 +48,6 @@
 <div align="center">
 <a href="https://github.com/Ho3einWave">
 <img align="center" alt="Ho3einWave | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="https://www.instagram.com/Ho3einwave_/">
-<img align="center" alt="Ho3einWave | Instagram"  src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF" />
-</a>
-<a href="https://obsv.ga/main">
-<img align="center" alt="Ho3einWave | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
 </a>
 </div>
 
