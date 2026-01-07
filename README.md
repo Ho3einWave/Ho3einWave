@@ -13,11 +13,8 @@ Currently learning **Rust** 🦀
 ---
 
 ### Stats
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Ho3einWave&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=228be6&icon_color=228be6&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=ho3einwave&theme=react&show_icons=true&hide_border=true&bg_color=0D1117&title_color=228be6&icon_color=228be6)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=ho3einwave&theme=react&hide_border=true&background=0D1117&ring=228be6&fire=228be6&currStreakLabel=228be6)  
-
-
+![WakaTime](https://readme-stats-fast.vercel.app/api/wakatime?username=Ho3einWave&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=228be6&icon_color=228be6&layout=compact)
+![Stats](https://readme-stats-fast.vercel.app/api?username=ho3einwave&theme=react&show_icons=true&hide_border=true&bg_color=0D1117&title_color=228be6&icon_color=228be6)  
 
 ---
 
